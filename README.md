@@ -1,11 +1,6 @@
 # Cloudflare Worker 2 Vless & Sub
 这是一个基于 Cloudflare Worker 平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
-
-# 免责声明
-
-本免责声明适用于 GitHub 上的 “edgetunnel” 项目（以下简称“该项目”），项目链接为：https://github.com/cmliu/edgetunnel
-
 ### 用途
 该项目被设计和开发仅供学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
 
